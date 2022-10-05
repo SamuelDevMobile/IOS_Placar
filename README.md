@@ -9,6 +9,7 @@ Ele pode ser baixado conforme abaixo:
 $ git clone TODO: ADICIONAR LINK
 ```
 Abra-o no seu Xcode
+
 <img width="500" alt="Captura de Tela 2022-10-05 às 01 07 39" src="https://user-images.githubusercontent.com/26841238/193979322-3454059f-cc98-4b8c-87ad-c385dadf2add.png">
 
 Execute o projeto no seguinte icone.
