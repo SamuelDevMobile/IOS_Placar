@@ -6,7 +6,7 @@ Este aplicativo tem como funcionalidade unica, de inserir os nomes dos jogadores
 ## Configuração do projeto
 Ele pode ser baixado conforme abaixo:
 ```sh
-$ git clone TODO: ADICIONAR LINK
+$ git clone https://github.com/SamuelDevMobile/IOS_Placar.git
 ```
 Abra-o no seu Xcode
 
